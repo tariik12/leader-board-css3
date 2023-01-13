@@ -98,7 +98,7 @@ main{
  .course{
     Width: 252.42px;
     Height: 269.79px;
-    filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
+    box-shadow: 0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05);
    
  }
  .course-banner img{
