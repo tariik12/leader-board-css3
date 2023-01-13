@@ -159,11 +159,4 @@ main{
         grid-template-columns: repeat(1,1fr);
     }
  } 
- /* Mobile Devices */
- @media screen and (min-width:577) and (max-width:996px) {
-    
- } 
- /* Mobile Devices */
- @media screen and (min-width:577) and (max-width:996px) {
-    
- } 
+ 
